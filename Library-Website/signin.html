@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login</title>
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+<nav>
+  <h1>Library</h1><input type="search" name="searchbar" placeholder="Search for your desired book"> &nbsp;&nbsp;&nbsp;
+  <a href="index.html">Home</a>&nbsp;&nbsp;&nbsp; <a href="#about">About</a>&nbsp;&nbsp;&nbsp; <a
+        href="./categories.html">Categories</a>&nbsp;&nbsp;&nbsp; <a href="signin.html">Login</a>&nbsp;&nbsp;&nbsp;<a href="bookstable.html">Books table</a>
+</nav>
+  <br>
+
+  <form action="index.html">
+    <fieldset>
+      <legend>Sign in form</legend>
+      <label for="username">username:</label> <input type="text" name="username" id="username">
+      <br>
+      <label for="password">password:</label> <input type="text" name="password" id="password">
+      <br>
+      <input type="radio" name="previlege" id="admin" value="admin">
+      <label for="admin">admin</label>
+      <input type="radio" name="previlege" id="user" value="user">
+      <label for="user">user</label>
+      <br>
+      <input type="checkbox" id="rememberPassword">
+      <label for="rememberPassword">Remember Your Password (not recommended)</label>
+      <br>
+      <button type="submit">login</button>
+    </fieldset>
+  </form>
+</body>
+
+</html>
