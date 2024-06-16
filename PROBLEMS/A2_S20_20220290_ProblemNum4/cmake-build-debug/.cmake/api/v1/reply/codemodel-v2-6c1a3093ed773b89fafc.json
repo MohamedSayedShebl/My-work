@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A2_S20_20220290_ProblemNum4",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A2_S20_20220290_ProblemNum4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A2_S20_20220290_ProblemNum4-Debug-2263d80d6d9a94c105e7.json",
+					"name" : "A2_S20_20220290_ProblemNum4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Moody Shebl/CLionProjects/A2_S20_20220290_ProblemNum4/cmake-build-debug",
+		"source" : "C:/Users/Moody Shebl/CLionProjects/A2_S20_20220290_ProblemNum4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

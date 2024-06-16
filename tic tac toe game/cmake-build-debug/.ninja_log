@@ -1,0 +1,21 @@
+# ninja log v5
+645	3248	7245381018699867	CMakeFiles/p2.dir/five_tic_tac_toe_Board.cpp.obj	dfde4c5b52977939
+7	1915	7245381003633047	CMakeFiles/p2.dir/GameManager.cpp.obj	658f6ec698cdf0ea
+441	2563	7245381011856101	CMakeFiles/p2.dir/RandomPlayer.cpp.obj	64f844d1b6586e1e
+7	1374	7245405203776847	CMakeFiles/p2.dir/four_in_a_row_Board.cpp.obj	5a02291b0f20ebaa
+82	2036	7245381006343996	CMakeFiles/p2.dir/Player.cpp.obj	dd234a2f1e768773
+164	2105	7245381007191159	CMakeFiles/p2.dir/pyramid_XO.cpp.obj	d8cf273f4ee43317
+262	2313	7245381009314049	CMakeFiles/p2.dir/X_O_Board.cpp.obj	7f24345fd9e88b87
+782	999	7245409739644082	p2.exe	93996ee0ccea7aea
+7	781	7245409737565642	CMakeFiles/p2.dir/main.cpp.obj	52208eb9cd2cc840
+14	832	7245405198374833	CMakeFiles/p2.dir/AIplayer.cpp.obj	d51e9b85f049067c
+2	226	7245415872433185	build.ninja	d7c0e63ffa6129d1
+2	349	7256667999121783	CMakeFiles/p2.dir/GameManager.cpp.obj	658f6ec698cdf0ea
+12	350	7256667999111780	CMakeFiles/p2.dir/main.cpp.obj	52208eb9cd2cc840
+9	543	7256668001064885	CMakeFiles/p2.dir/RandomPlayer.cpp.obj	64f844d1b6586e1e
+6	548	7256668001104752	CMakeFiles/p2.dir/Player.cpp.obj	dd234a2f1e768773
+28	548	7256668001114714	CMakeFiles/p2.dir/four_in_a_row_Board.cpp.obj	5a02291b0f20ebaa
+25	563	7256668001234689	CMakeFiles/p2.dir/X_O_Board.cpp.obj	7f24345fd9e88b87
+17	564	7256668001244665	CMakeFiles/p2.dir/pyramid_XO.cpp.obj	d8cf273f4ee43317
+33	1231	7256668007941997	CMakeFiles/p2.dir/five_tic_tac_toe_Board.cpp.obj	dfde4c5b52977939
+1231	1390	7256668009506979	p2.exe	ec0c5825054d9830

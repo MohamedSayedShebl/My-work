@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.26)
+project(CS213-2023-S20-20220290-20220210-A1-FULL)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(CS213-2023-S20-20220290-20220210-A1-FULL.cpp
+        CS213-2023-S20-20220290-20220210-A1-FULL.cpp bmplib.cpp bmplib.h)
+add_executable(CS213-2023-S20-20220290-20220210-A1Bonus.cpp bmplib.cpp bmplib.h
+        CS213-2023-S20-20220290-20220210-A1Bonus.cpp)
