@@ -1,0 +1,2 @@
+Information retrieval is a process of finding relevant documents.
+An inverted index helps in efficient searching.

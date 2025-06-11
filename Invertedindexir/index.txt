@@ -1,0 +1,4 @@
+0,C:\Users\Moody Shebl\Documents\GitHub\IR_InvertedIndex\collection\file1.txt,C:\Users\Moody Shebl\Documents\GitHub\IR_InvertedIndex\collection\file1.txt,0,0.0000,notext
+1,C:\Users\Moody Shebl\Documents\GitHub\IR_InvertedIndex\collection\file2.txt,C:\Users\Moody Shebl\Documents\GitHub\IR_InvertedIndex\collection\file2.txt,0,0.0000,notext
+section2
+end
